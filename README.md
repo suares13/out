@@ -1,4 +1,4 @@
-# OUT — Digital Exposure Scanner
+# OUT: Digital Exposure Scanner
 
 ```
  ██████╗ ██╗   ██╗████████╗
@@ -9,7 +9,7 @@
  ╚═════╝  ╚═════╝    ╚═╝   
 ```
 
-**OUT** scans the digital footprint of an email, username, or domain and tells you — in plain language — how exposed that identity is on the internet.
+**OUT** scans the digital footprint of an email, username, or domain and tells you, in plain language — how exposed that identity is on the internet.
 
 Built for security professionals and non-technical users alike: the output is readable by anyone, but the data underneath is real.
 
@@ -44,11 +44,11 @@ python out.py --domain example.com
 
 ## What it checks
 
-| Mode         | Checks                                                                      |
-|--------------|-----------------------------------------------------------------------------|
+| Mode         | Checks                                                                         |
+|--------------|--------------------------------------------------------------------------------|
 | `--email`    | Data breaches (XposedOrNot), paste sites, password hash leaks, social presence |
-| `--username` | Presence on GitHub, Twitter/X, Reddit, HackerNews, Dev.to, Medium          |
-| `--domain`   | DNS resolution, common open ports                                           |
+| `--username` | Presence on GitHub, Twitter/X, Reddit, HackerNews, Dev.to, Medium              |
+| `--domain`   | DNS resolution, common open ports                                              |
 
 ---
 
