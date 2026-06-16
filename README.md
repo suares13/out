@@ -9,7 +9,7 @@
  ╚═════╝  ╚═════╝    ╚═╝   
 ```
 
-**OUT** scans the digital footprint of an email, username, or domain and tells you, in plain language — how exposed that identity is on the internet.
+**OUT** scans the digital footprint of an email, username, or domain and tells you, in plain language, how exposed that identity is on the internet.
 
 Built for security professionals and non-technical users alike: the output is readable by anyone, but the data underneath is real.
 
